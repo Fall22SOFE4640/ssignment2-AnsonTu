@@ -10,3 +10,6 @@
 redirect the user to a new page
 - The new page's title will be based on the button clicked (CALL, ROUTE, SHARE), and contain a button for returning to the home page
 
+## Video Demo
+- A demo of the video has been uploaded, located in the root of the repository
+- Anson Tu, 100655482, Mobile App Dev Assignment 2 Demo.mkv
