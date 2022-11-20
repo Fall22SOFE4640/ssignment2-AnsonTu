@@ -9,6 +9,7 @@
 - Clicking on the CALL, ROUTE, or SHARE buttons should display the relevant toast message, and
 redirect the user to a new page
 - The new page's title will be based on the button clicked (CALL, ROUTE, SHARE), and contain a button for returning to the home page
+- Clicking on the red star should favourite or unfavourite the route, depending on its current state
 
 ## Video Demo
 - A demo of the video has been uploaded, located in the root of the repository
